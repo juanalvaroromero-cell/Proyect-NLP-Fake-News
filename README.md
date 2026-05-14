@@ -166,7 +166,7 @@ Set `RUN_ELECTRA_TRAINING = True` in Section 19 to retrain the model.
 
 | Name | GitHub | Role |
 |---|---|---|
-| Irish Levi | [@irish16levi](https://github.com/irish16levi) | Logistic Regression · Linear SVM · Sentence Embeddings · DistilBERT |
+| Irish Levi | [@Irish-Lev](https://github.com/irish16levi) | Logistic Regression · Linear SVM · Sentence Embeddings · DistilBERT |
 | Gregori | [@Greg2828](https://github.com/Greg2828) | Naive Bayes |
 | Juan Alvaro | [@juanalvaroromero-cell](https://github.com/juanalvaroromero-cell) | Random Forest · XGBoost · ELECTRA Transformer |
 
