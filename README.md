@@ -74,7 +74,7 @@ Proyect-NLP-Fake-News/
 
 ## Notebooks
 
-### Main Notebook – `finalNotebook_with_ELECTRA(1).ipynb`
+### Main Notebook – `finalNotebook.ipynb`
 
 The primary deliverable. Merges all individual model analyses into a single end-to-end pipeline and adds the ELECTRA Transformer model.
 
@@ -103,7 +103,7 @@ The primary deliverable. Merges all individual model analyses into a single end-
 
 ### Individual Notebooks
 
-> **Note:** Individual member notebooks are not included in this repository due to storage constraints. All analyses, models, and results from the individual notebooks have been fully merged into `finalNotebook_with_ELECTRA(1).ipynb`.
+> **Note:** Individual member notebooks are not included in this repository due to storage constraints. All analyses, models, and results from the individual notebooks have been fully merged into `finalNotebook.ipynb`.
 
 | Notebook | Member | Models covered |
 |---|---|---|
@@ -142,10 +142,10 @@ All models were evaluated on the same 20% validation split (6,441 rows, stratifi
 
 ## Deliverables
 
-1. **`finalNotebook_with_ELECTRA(1).ipynb`** — Complete end-to-end pipeline with all models, comparisons, and ELECTRA Transformer
+1. **`finalNotebook.ipynb`** — Complete end-to-end pipeline with all models, comparisons, and ELECTRA Transformer
 2. **`outputs_predictions.csv`** — Final test predictions in the required format (tab-separated, label + text, no header)
 3. **`outputs_predictions.electra.csv`** - Final prediction on the Electra Transformer
-4. **`presentationPowerPoint_updated_ELECTRA.pptx`** — 10-minute group presentation covering methodology, results, and conclusions
+4. **`Presentation.pptx`** — 10-minute group presentation covering methodology, results, and conclusions
 5. **Accuracy estimation:** ~97.78% (ELECTRA) / ~93.6% (Linear SVM baseline)
 
 ---
