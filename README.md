@@ -27,7 +27,7 @@ The dataset was sourced from **Kaggle** and provided by Ironhack as part of this
 
 ---
 
-## Project Structure
+## Project implementation structure in Colab
 
 ```
 project-3-nlp/
@@ -55,7 +55,21 @@ project-3-nlp/
 ├── outputs_predictions.csv             # Final predictions (Linear SVM)
 └── README.md
 ```
+## Project structure in GitHub
 
+```
+Proyect-NLP-Fake-News/
+│
+├── Notebooks/
+│   └── finalNotebook.ipynb                         # Final complete merged notebook
+│
+├── Outputs/
+│   ├── outputs_predictions.csv                     # Final predictions (Linear SVM)
+│   └── outputs_predictions_electra_correct_format  # Final predictions (Electra Small)
+└── Presentation/
+    └── Presentation.pptx                           # Ironhack Presentation
+
+```
 ---
 
 ## Notebooks
@@ -171,5 +185,14 @@ Set `RUN_ELECTRA_TRAINING = True` in Section 19 to retrain the model.
 | Juan Alvaro | [@juanalvaroromero-cell](https://github.com/juanalvaroromero-cell) | Random Forest · XGBoost · ELECTRA Transformer |
 
 ---
+
+## 🙏 Acknowledgements
+
+Special thanks to:
+* **[Irish-Lev](https://github.com/irish16levi)**
+* **[Greg2828](https://github.com/Greg2828)**
+
+For their valuable contributions, support, or inspiration throughout the development of this project.
+Bad Connection Band rules!!! 😉💪🏻
 
 *Ironhack Data Science Bootcamp – NLP Project 3*
